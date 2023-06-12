@@ -5,9 +5,11 @@ Shewassa bar Yes & Shewassa bar No:
 Here are the graphs of the time it took for people to figure it out, based on whether they were listening to music or not in seconds.
 
 Shewassa independant sample num...:
+This shows all relevent numbers for my dataset: Size, mean, variance, variance of mean, test statistic, and degrees of freedom.
 
-Shewassa Code Screenshot:
-fig 2
+Shewassa Code Screenshot (fig 2):
+This is the code used in the experiment to record keypresses.
 
-Shewassa Text Screenshot:
-fig 1
+Shewassa Text Screenshot (fig 1):
+This is the text used in the code, that participents attempted to write out.
+
